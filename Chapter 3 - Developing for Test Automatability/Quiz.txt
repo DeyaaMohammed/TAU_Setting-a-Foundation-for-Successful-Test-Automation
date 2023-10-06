@@ -1,0 +1,29 @@
+1. Which of the following does NOT improve test automatability?
+[ ] a- Code seams
+[ ] b- UI element identifiers
+[ ] c- Application shortcuts
+[x] d- Shopping carts
+
+2. Which of the following is NOT a level of the Test Automation Pyramid?
+[ ] a- Services
+[ ] b- UI
+[ ] c- Unit
+[x] d- JavaScript
+
+3. Which level should you automate your test at to have it execute as quickly as possible?
+[x] a- As close to the production code as possible
+[ ] b- As far away from the production code as possible
+[ ] c- The easiest level to get to
+[ ] d- Any level
+
+4. The absence of reliable element identifiers affects which type of tests?
+[ ] a- Unit
+[ ] b- Service
+[ ] c- API
+[x] d- UI
+
+5. Which is NOT an example of utilizing a code seam?
+[x] a- Navigating the UI just as a user would
+[ ] b- Calling a business level function directly
+[ ] c- Invoking an HTTP request to bypass the UI
+[ ] d- Avoiding navigation by launching specific application pages

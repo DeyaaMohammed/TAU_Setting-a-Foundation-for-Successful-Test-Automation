@@ -1,0 +1,23 @@
+1. What are some ways in which your automated tests may need to scale beyond your local machine?
+[ ] a- Different environments
+[ ] b- Different devices
+[ ] c- Different browsers
+[x] d- All of the above
+
+2. When scaling for different environments, the management of ______ should be considered.
+[x] a- Environment-specific data
+[ ] b- Programming languages
+[ ] c- Test automation tools
+[ ] d- APIs
+
+3. What’s the best approach when choosing which browsers to execute on?
+[ ] a- The tests are automated; run on every browser!
+[ ] b- Only run on the browser which is easiest to automate for
+[x] c- Consider your business needs and choose your browsers accordingly
+[ ] d- Run in all browsers offered by your cloud provider
+
+4. What considerations should be made for mobile test automation?
+[ ] a- Dealing with responsive layouts
+[ ] b- Mobile apps developed by your organization
+[ ] c- Appropriate automation tools
+[x] d- All of the above

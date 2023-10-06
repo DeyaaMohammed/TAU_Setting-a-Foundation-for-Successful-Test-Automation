@@ -1,0 +1,23 @@
+1. Which of these is a key consideration for choosing a tool for test automation?
+[ ] a- Who will be using them
+[ ] b- Available support and resources
+[ ] c- Compatibility with required programming languages, devices, and browsers
+[x] d- All of the above
+
+2. When considering a programming language for test automation, which factor may be a deterrent?
+[ ] a- Developers use the same language
+[ ] b- Easy to learn
+[x] c- Unsupported by most test automation tools
+[ ] d- Great documentation
+
+3. Which of the following is NOT an example of automated tests interacting with the application?
+[ ] a- Calling product-level functions
+[ ] b- Making HTTP requests to product’s services
+[ ] c- Navigating product’s UI
+[x] d- Reporting test results
+
+4. The purpose of validation libraries is to:
+[x] a- Enable a test to pass or fail
+[ ] b- Add tests to continuous integration
+[ ] c- Make API calls
+[ ] d- Navigate UI

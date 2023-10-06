@@ -1,0 +1,23 @@
+1. Which of the following is NOT a consideration needed for future-proofing automated tests?
+[ ] a- Utilizing design patterns
+[ ] b- Clean coding practices
+[ ] c- Enabling parallel execution of tests
+[x] d- Keeping the source code on your machine
+
+2. To run tests in parallel, your tests should:
+[x] a- Be thread-safe
+[ ] b- Rely on other tests
+[ ] c- Modify shared test data when needed
+[ ] d- Define shared objects/variables as static
+
+3. Which of the following is a violation of clean coding practices?
+[ ] a- Short tests
+[x] b- Excessive code duplication
+[ ] c- Short methods
+[ ] d- Efficient waiting techniques
+
+4. To future-proof your tests, which design patterns should you use?
+[ ] a- All of them
+[ ] b- None of them
+[x] c- The ones that make sense for your project
+[ ] d- Only one

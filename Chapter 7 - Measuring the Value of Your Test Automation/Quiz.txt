@@ -1,0 +1,25 @@
+1. What’s the best way to avoid unrealistic expectations from your test automation initiative?
+[ ] a- Don’t set any expectations
+[x] b- Identify and communicate expectations early
+[ ] c- Secretly set personal expectations
+[ ] d- None of the above
+
+2. Which of the following is NOT a reasonable return on your investment in test automation?
+[ ] a- Fast feedback
+[ ] b- Faster development time
+[ ] c- Shortened regression testing cycles
+[x] d- 100% test coverage
+
+3. Most benefits of test automation are seen after the first test is automated.
+[ ] a- True
+[x] b- False
+
+4. The benefits of test automation cannot be measured.
+[ ] a- True
+[x] b- False
+
+5. Test automation is a ________
+[ ] a- Side project
+[x] b- Software development project
+[ ] c- Waste of time
+[ ] d- Way to replace testers

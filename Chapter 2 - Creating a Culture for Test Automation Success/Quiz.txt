@@ -1,0 +1,29 @@
+1. What’s the best approach for getting team buy-in for test automation?
+[x] a- Communicate the goal, strategy, and opportunities for collaboration
+[ ] b- Assign tasks to individuals
+[ ] c- Force team members to contribute
+[ ] d- All of the above
+
+2. Given the traditional role of a product owner, what’s the most probable way they can assist with test automation?
+[ ] a- Automate tests
+[x] b- Provide business insight on which scenarios should be automated
+[ ] c- Triage test failures
+[ ] d- Evaluate test automation tools
+
+3. What’s a benefit of good test automation to product developers?
+[ ] a- They get to write more code
+[X] b- They are able to develop features with more confidence
+[ ] c- They don’t need to worry about testing
+[ ] d- None of the above
+
+4. How should test automation affect manual testers?
+[ ] a- Replace them
+[ ] b- Slow them down
+[x] c- Assist them
+[ ] d- Devalue them
+
+5. Which of these team members can play a part in the success of test automation?
+[ ] a- Developer
+[ ] b- Tester
+[ ] c- Business analyst
+[x] d- All of the above

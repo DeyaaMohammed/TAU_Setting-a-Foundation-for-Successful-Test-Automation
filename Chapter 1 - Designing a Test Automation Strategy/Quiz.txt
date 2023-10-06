@@ -1,0 +1,27 @@
+1. What is NOT a reasonable goal for test automation?
+[ ] a- Release features faster
+[ ] b- Enable continuous testing
+[ ] c- Reduce regression testing time
+[x] d- Solve all quality issues
+
+2. What’s the first thing that should be decided before starting a new test automation initiative?
+[ ] a- Which programming language to use
+[x] b- What's the goal of automation
+[ ] c- How many people are needed
+[ ] d- Which framework to use
+
+3. Which of these tasks are associated with a test automation project?
+[ ] a- Authoring automated tests
+[ ] b- Monitoring test results
+[ ] c- Maintaining automated tests
+[x] d- All the above
+
+4. Which is NOT a consideration when determining who will write the automated tests?
+[ ] a- Person's capacity
+[ ] b- Person's skill set
+[x] c- Person's seniority
+[ ] d- Person's desire
+
+5. It’s recommended that your very first automated test should be immediately added to continuous integration to begin gating developer check-ins:
+[ ] a- True
+[x] b- False
